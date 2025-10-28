@@ -38,10 +38,6 @@
 
 ---
 
-remote: Permission to MOHAMEDMETAWEA/MOHAMEDMETAWEA.git denied to github-actions[bot].
-fatal: unable to access 'https://github.com/MOHAMEDMETAWEA/MOHAMEDMETAWEA.git/': The requested URL returned error: 403
-
-
 ### 📫 Connect with Me
 📧 [mm3796703@gmail.com](mailto:mm3796703@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-mostafa-metawea)  
@@ -50,3 +46,6 @@ fatal: unable to access 'https://github.com/MOHAMEDMETAWEA/MOHAMEDMETAWEA.git/':
 ---
 
 ⭐️ _“Turning data into intelligent solutions that make real-world impact.”_
+
+![snake gif](https://github.com/MOHAMEDMETAWEA/MOHAMEDMETAWEA/blob/output/github-snake.svg)
+
