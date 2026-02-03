@@ -1,40 +1,95 @@
 # 👋 Hi, I’m Mohamed Mostafa Metawea  
-🎯 **Data Science | AI & Machine Learning Engineer**
 
+**AI Engineer | Machine Learning Engineer | Data Scientist**
+
+📍 Giza, Egypt  
+ 
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-mostafa-metawea) 
 ![Profile Views](https://komarev.com/ghpvc/?username=MOHAMEDMETAWEA&color=brightgreen)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mostafa-metawea)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/MOHAMEDMETAWEA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mm3796703@gmail.com)
+📧[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mm3796703@gmail.com)
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **AI and machine learning projects** .  
--  I’m looking to collaborate on **open-source AI/ML and MLOps projects**.  
-- 🌱 I’m currently learning **MLOps, model optimization, and deployment (MLflow, Streamlit)**.  
-- 💬 Ask me about **Machine Learning, Deep Learning, Data Preprocessing, and Model Deployment**.  
-- ⚡ Fun fact: I built an **AI Face Recognition Attendance System with Anti-Spoofing** that detects fake faces in under a second!
+## 🚀 About Me
+Junior **AI Engineer** and **Communication & Electronics Engineering graduate** with strong hands-on experience in **Computer Vision, Deep Learning, NLP, and Generative AI**.
+
+- 🔭 Working on **real-world AI & ML projects** (CV, NLP, Generative AI)
+- 🤝 Open to collaborating on **AI/ML, Computer Vision, and MLOps projects**
+- 🌱 Currently learning **MLOps, scalable deployment, and model optimization**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, NLP**
+- ⚡ Fun fact: Built a **Face Recognition Attendance System with Anti-Spoofing** achieving **98% spoof prevention** and **<1s inference time**
 
 ---
 
-### 🧠 Tech Stack
-💻 **Languages:** Python, C++, SQL  
-🧩 **ML/DL:** Scikit-learn, TensorFlow, Keras, LightGBM, XGBoost  
-🧰 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, OpenCV  
-🚀 **Deployment:** Flask, Streamlit, MLflow  
-🧮 **Concepts:** Data Preprocessing, Feature Engineering, Model Evaluation, Cross-Validation  
+## 🧠 Tech Stack
+
+### 💻 Programming
+- Python, C++, SQL  
+
+### 🤖 Machine Learning & Data Science
+- Data Preprocessing, EDA, Feature Engineering  
+- Model Training, Evaluation, Cross-Validation  
+- Hyperparameter Tuning  
+
+### 🧠 Deep Learning
+- CNNs, RNNs (LSTM, GRU)  
+- Transfer Learning  
+- Autoencoders, Transformers  
+
+### 🗣️ NLP
+- Text Preprocessing, TF-IDF  
+- Word Embeddings (Word2Vec, GloVe, FastText)  
+- Text Classification, Sentiment Analysis  
+- Topic Modeling (LDA)  
+- spaCy, NLTK, Hugging Face  
+
+### 👁️ Computer Vision
+- Image Classification  
+- Object Detection & Segmentation  
+- Face Recognition & Liveness Detection  
+- Video Analysis, OCR  
+- YOLOv8 / YOLOv10, Detectron2, MediaPipe  
+
+### 🎨 Generative AI
+- Prompt Engineering  
+- LLMs, GANs, VAEs, Diffusion Models  
+- LoRA, PEFT  
+- Text & Image Generation  
+
+### 🛠️ Frameworks & MLOps
+- Scikit-learn, TensorFlow, Keras  
+- Pandas, NumPy  
+- FastAPI, Flask, Streamlit  
+- Docker, MLflow, Azure ML  
+
+### 📊 Visualization & Databases
+- Power BI, SQL  
 
 ---
 
-### 🏆 Featured Projects
-- 🫀 **[Heart Disease Risk Prediction System](https://github.com/MOHAMEDMETAWEA/Depi_Graduation_project)**  
-  Achieved 92% recall and 0.90 F1-score; deployed as an interactive Streamlit app.  
+## 🏆 Key Projects
+🔹 **Face Recognition Attendance System (Anti-Spoofing)**  
+95% accuracy · 98% spoof prevention · <1s inference  
+🔗 https://github.com/MOHAMEDMETAWEA/Graduation-Project  
 
-- 🧠 **[Face Recognition Attendance System with Anti-Spoofing](https://github.com/MOHAMEDMETAWEA/Graduation-Project)**  
-  95% recognition accuracy; liveness detection blocked 98% of spoofing attempts.  
+🔹 **Heart Disease Risk Prediction System**  
+92% recall · 0.90 F1-score · Streamlit deployment  
+🔗 https://github.com/MOHAMEDMETAWEA/Depi_Graduation_project  
 
-- 🖼️ **[CNN-Based Image Classification Models](https://github.com/MOHAMEDMETAWEA/CNN-projects)**  
-  Trained CNNs with transfer learning (VGG16, ResNet) for advanced image classification.  
+🔹 **Comment Toxicity Detection (NLP)**  
+TF-IDF-based text classification for content moderation  
+
+---
+
+## 🎓 Education
+🎓 **B.Sc. Communication & Electronics Engineering**  
+October 6 University, Giza, Egypt  
+**GPA:** 3.44 / 4.0  
+**Graduation Project Grade:** A  
+
+---
+
+⭐ *Building practical, scalable AI solutions for real-world problems.*
 
 ---
 
@@ -48,4 +103,3 @@
 ⭐️ _“Turning data into intelligent solutions that make real-world impact.”_
 
 ![snake gif](https://github.com/MOHAMEDMETAWEA/MOHAMEDMETAWEA/blob/output/github-snake.svg)
-
