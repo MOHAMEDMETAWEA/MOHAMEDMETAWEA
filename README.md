@@ -141,14 +141,6 @@ https://github.com/MOHAMEDMETAWEA/Depi_Graduation_project
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDMETAWEA&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDMETAWEA&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 📧 **Email:** [mm3796703@gmail.com](mailto:mm3796703@gmail.com)  
 🌐 **LinkedIn:** https://www.linkedin.com/in/mohamed-mostafa-metawea  
