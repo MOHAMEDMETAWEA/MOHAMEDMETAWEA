@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **AI and machine learning projects** .  
-- 👯 I’m looking to collaborate on **open-source AI/ML and MLOps projects**.  
+-  I’m looking to collaborate on **open-source AI/ML and MLOps projects**.  
 - 🌱 I’m currently learning **MLOps, model optimization, and deployment (MLflow, Streamlit)**.  
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Preprocessing, and Model Deployment**.  
 - ⚡ Fun fact: I built an **AI Face Recognition Attendance System with Anti-Spoofing** that detects fake faces in under a second!
