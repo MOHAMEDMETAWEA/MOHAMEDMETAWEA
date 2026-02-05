@@ -103,34 +103,6 @@ YOLOv8 · YOLOv10 · Detectron2 · MediaPipe
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔹 Face Recognition Attendance System (Anti-Spoofing)
-- **95% accuracy**
-- **98% spoof prevention**
-- **< 1 second inference time**
-- Real-time face recognition with liveness detection  
-
-🔗 **Repo:**  
-https://github.com/MOHAMEDMETAWEA/Graduation-Project
-
----
-
-### 🔹 Heart Disease Risk Prediction System
-- **92% Recall**
-- **0.90 F1-Score**
-- End-to-end ML pipeline with **Streamlit deployment**
-
-🔗 **Repo:**  
-https://github.com/MOHAMEDMETAWEA/Depi_Graduation_project
-
----
-
-### 🔹 Comment Toxicity Detection (NLP)
-- TF-IDF based text classification
-- Designed for **content moderation systems**
-
----
 
 ## 🎓 Education
 🎓 **B.Sc. Communication & Electronics Engineering**  
