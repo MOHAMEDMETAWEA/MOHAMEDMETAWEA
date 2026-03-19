@@ -1,189 +1,141 @@
 <h1 align="center">👋 Hi, I'm Mohamed Mostafa Metawea</h1>
-<h3 align="center">AI Engineer | Machine Learning Engineer | Data Scientist</h3>
+<h3 align="center">AI Engineer | Generative AI & Agentic Systems</h3>
+
 <p align="center">
+🚀 Building scalable AI systems | LLMs • RAG • Agents • MLOps <br>
 📍 6 October City, Giza, Egypt <br>
+
 <a href="https://www.linkedin.com/in/mohamed-mostafa-metawea">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:mm3796703@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://mohamedmetawea.github.io">
 <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white"/>
 </a>
- <a href="https://adorable-liger-b6493e.netlify.app/">
+
+<a href="https://adorable-liger-b6493e.netlify.app/">
 <img src="https://komarev.com/ghpvc/?username=MOHAMEDMETAWEA&color=brightgreen"/>
+</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-**AI Engineer** and **Communication & Electronics Engineering graduate** with strong hands-on experience in:
+AI Engineer focused on building **production-ready intelligent systems**, with strong experience in:
 
-**Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · MLOps**
+**Generative AI · Machine Learning · Deep Learning · MLOps**
 
-- 🔭 Working on **real-world AI & ML projects**
-- 🤝 Open to collaboration on **AI/ML, CV, NLP, GenAI & MLOps**
-- 🌱 Currently advancing in **Generative AI, RAG architectures & Agentic AI systems**
-- 💬 Ask me about **Machine Learning, Deep Learning, CV, NLP & Generative AI**
-- ⚡ **Fun Fact:** Built a **Face Recognition Attendance System** with  
-  **98% spoof prevention** & **< 1s inference time**
+- 🔭 Building **end-to-end AI systems** from data to deployment  
+- 🧠 Specialized in **LLMs, RAG pipelines, and multi-agent architectures**  
+- ⚙️ Experienced in **scalable deployment (FastAPI, Docker, Cloud)**  
+- 📊 Strong background in **NLP, Computer Vision, and model optimization**  
+- 🚀 Focused on **real-world impact, performance, and system reliability**
+
+⚡ Built systems with:
+- Multi-agent reasoning pipelines  
+- Retrieval-Augmented Generation (RAG)  
+- Real-time inference APIs  
 
 ---
 
 ## 💼 Experience
 
 ### 🏭 Machine Learning Intern — Cellula Technologies *(Feb 2025 – Mar 2025)*
-- Developed and optimized ML models for industrial use cases, improving model performance and reliability
-- Deployed trained models as **RESTful APIs** using **Flask**, enabling real-time inference
-- Containerized ML services using **Docker**, ensuring reproducible and scalable deployment
+- Developed and optimized ML models for industrial use cases, improving performance and reliability  
+- Deployed models as **REST APIs** using Flask for real-time inference  
+- Containerized ML services using **Docker** for scalable and reproducible deployment  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Core Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-### 🤖 Machine Learning & Data Science
-- Data Preprocessing & Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training, Evaluation & Optimization
-- Cross-Validation & Hyperparameter Tuning
-
----
-
-### 🧠 Deep Learning
-- CNNs, RNNs (LSTM, GRU)
-- Transfer Learning
-- Autoencoders
-- Transformers
-
----
-
-### 🗣️ Natural Language Processing (NLP)
-- Text Preprocessing & Tokenization
-- TF-IDF & Statistical Features
-- Word Embeddings (Word2Vec, GloVe, FastText)
-- Text Classification & Sentiment Analysis
-- Topic Modeling (LDA)
-- **Tools:** spaCy, NLTK, Hugging Face
-
----
-
-### 👁️ Computer Vision
-- Image Classification
-- Object Detection, Segmentation & Tracking
-- Face Recognition & Liveness Detection
-- Pose Estimation, Video Analysis & OCR
-
-**Frameworks & Models:**  
-YOLOv8 · YOLOv10 · Detectron2 · MediaPipe · OpenCV
-
----
-
-### 🎨 Generative AI
-- Prompt Engineering & Chain-of-Thought Reasoning
-- Large Language Models (LLMs) · Function Calling · Context Management
-- GANs · VAEs · Diffusion Models
-- LoRA & PEFT · Text & Image Generation
-- **RAG Architecture** · Vector Databases
-- **LangChain · LangGraph**
-- **Agentic AI · Multi-Agent Systems**
-- Model Evaluation & Multi-Step Reasoning
-
----
-
-### 🛠️ Frameworks, Tools & MLOps
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_ML-0078D4?logo=microsoftazure&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-
-- Pandas · NumPy
-- FastAPI · Flask · Streamlit
-- Docker · MLflow · Azure ML · AWS
-
----
-
-### 📊 Visualization & Databases
-- Power BI
-- SQL
+**Languages:** Python · SQL · C++  
+**ML/DL:** Scikit-learn · TensorFlow · Transformers  
+**GenAI:** LLMs · RAG · LangChain · LangGraph · Vector Databases  
+**CV/NLP:** OpenCV · YOLO · Hugging Face  
+**Deployment:** FastAPI · Flask · Docker · MLflow  
+**Cloud:** AWS · Azure  
 
 ---
 
 ## 🗂️ Featured Projects
 
+### 🧠 MedAgent — Multi-Agent Clinical AI System
+`LangGraph` `GPT-4o` `RAG` `FAISS` `FastAPI` `Docker`
+
+- Built a **production-grade multi-agent AI system** for clinical decision support  
+- Implemented **RAG pipeline** over medical knowledge to improve accuracy and reduce hallucinations  
+- Designed **multi-step reasoning (Tree-of-Thought)** with confidence scoring  
+- Deployed with **FastAPI + Docker** with monitoring and logging  
+
+---
+
 ### 🎭 AI-Based Face Recognition Attendance System
 `Python` `OpenCV` `CNNs` `Flask`
-- Built a real-time face recognition system reducing manual attendance by **80%**
-- Implemented anti-spoofing & liveness detection achieving **98% spoof prevention**
-- Achieved **95% accuracy** with inference time under **1 second**
+
+- Built a real-time face recognition system reducing manual attendance by **80%**  
+- Implemented **liveness detection & anti-spoofing** achieving **98% spoof prevention**  
+- Achieved **95% accuracy** with inference time under **1 second**  
 
 ---
 
 ### ❤️ Heart Disease Risk Prediction System
 `Python` `Scikit-learn` `LightGBM` `XGBoost` `Streamlit`
-- Built an end-to-end clinical ML pipeline achieving **92% recall** and **0.90 F1-score**
-- Deployed an interactive risk assessment web app using **Streamlit** for clinical use
+
+- Built an end-to-end ML pipeline achieving **92% recall** and **0.90 F1-score**  
+- Deployed an interactive **Streamlit web app** for clinical use  
 
 ---
 
 ### 🛡️ Comment Toxicity Detection System
 `Python` `NLP` `Scikit-learn`
-- Developed a **TF-IDF-based multi-label text classifier** for content moderation
-- Reduced false positives through feature engineering and threshold optimization
+
+- Developed a **multi-label NLP classifier** using TF-IDF  
+- Reduced false positives through feature engineering and threshold tuning  
 
 ---
 
 ## 🎓 Education
 
 🎓 **B.Sc. Communication & Electronics Engineering**  
-**October 6 University – Giza, Egypt** *(2020 – 2025)*
+**October 6 University – Giza, Egypt** *(2020 – 2025)*  
 
-- **GPA:** 3.44 / 4.0
-- **Graduation Project:** AI-Based Face Recognition Attendance System with Anti-Spoofing — **Grade: A**
+- GPA: **3.44 / 4.0**  
+- Graduation Project: Face Recognition Attendance System — **Grade: A**
 
 ---
 
 ## 📚 Courses & Training
 
-| Course | Provider | Period |
-|---|---|---|
-| Generative AI Professional | DEPI, Ministry of Communications & IT | Nov 2025 – Jun 2026 |
-| AI Training | National Telecommunication Institute (NTI) | Oct 2025 – Jan 2026 |
-| Machine Learning Specialization | DeepLearning.AI (Andrew Ng) | — |
-| IBM Data Science Program | DEPI, Ministry of Communications & IT | Oct 2024 – Jun 2025 |
-| Orange AI Level 1 | Orange Egypt | Nov 2024 |
+- Generative AI Professional — DEPI  
+- AI Training — NTI  
+- Machine Learning Specialization — DeepLearning.AI  
+- IBM Data Science Program — DEPI  
+- Orange AI Certification  
 
 ---
 
 ## 🌍 Languages
-- 🇪🇬 **Arabic:** Native
-- 🇬🇧 **English:** Very Good
+
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Professional Working Proficiency  
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [mm3796703@gmail.com](mailto:mm3796703@gmail.com)  
-🌐 **LinkedIn:** https://www.linkedin.com/in/mohamed-mostafa-metawea  
-💻 **GitHub:** https://github.com/MOHAMEDMETAWEA  
+📧 Email: mm3796703@gmail.com  
+🌐 LinkedIn: https://www.linkedin.com/in/mohamed-mostafa-metawea  
+💻 GitHub: https://github.com/MOHAMEDMETAWEA  
 
 ---
 
-⭐ *Building practical, scalable AI solutions for real-world impact.*  
-⭐️ _"Turning data into intelligent systems that solve real problems."_
+⭐ Building scalable AI systems for real-world impact  
+⭐ Turning data into intelligent solutions  
 
 ![snake gif](https://github.com/MOHAMEDMETAWEA/MOHAMEDMETAWEA/blob/output/github-snake.svg)
