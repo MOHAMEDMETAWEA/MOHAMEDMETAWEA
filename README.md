@@ -43,8 +43,9 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 
 **Languages:** Python · SQL · C++  
 **ML/DL:** Scikit-learn · TensorFlow · Transformers  
-**GenAI:** LLMs · RAG · LangChain · Vector Databases  
-**CV/NLP:** OpenCV · Hugging Face  
+**GenAI:** LLMs · RAG · LangChain · LangGraph · OpenAI API (GPT-4o) · FAISS · Vector Databases · Fine-tuning (LoRA, PEFT)  
+**CV/NLP:** OpenCV · YOLO · CNNs · Hugging Face · TF-IDF  
+**Networking:** VLANs · 802.1Q · RIP/EIGRP/OSPF · ACLs · NAT · Hikvision HCSA  
 **Deployment:** FastAPI · Flask · Docker · MLflow  
 
 ---
