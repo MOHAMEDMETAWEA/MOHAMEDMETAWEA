@@ -13,7 +13,7 @@ LLMs • RAG • Agents • Computer Vision <br>
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://mohamed-portfolio-black-chi.vercel.app">
+<a href="https://mohamed-mostafa-metawea.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/>
 </a>
 </p>
@@ -123,4 +123,4 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 
 📧 mm3796703@gmail.com  
 🌐 https://www.linkedin.com/in/mohamed-mostafa-metawea  
-🌍 https://mohamed-portfolio-black-chi.vercel.app
+🌍 https://mohamed-mostafa-metawea.vercel.app
