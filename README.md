@@ -24,7 +24,7 @@ LLMs • RAG • Agents • Computer Vision <br>
 
 AI/ML engineer and Communication & Electronics Engineering graduate. I build GenAI and machine learning projects, from data and models to APIs and demos.
 
-- 🧠 Focus: LLMs, RAG pipelines and multi-agent systems (LangGraph)
+- 🧠 Focus: LLMs, RAG pipelines and agent workflows (LangChain, n8n)
 - 👁️ Computer vision and NLP projects
 - ⚙️ Serving models with FastAPI and Flask, packaged with Docker
 
@@ -43,8 +43,8 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 
 **Languages:** Python · SQL · C++  
 **ML/DL:** Scikit-learn · TensorFlow · Transformers  
-**GenAI:** LLMs · RAG · LangChain · LangGraph · Vector Databases  
-**CV/NLP:** OpenCV · YOLO · Hugging Face  
+**GenAI:** LLMs · RAG · LangChain · Vector Databases  
+**CV/NLP:** OpenCV · Hugging Face  
 **Deployment:** FastAPI · Flask · Docker · MLflow  
 
 ---
@@ -52,7 +52,7 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 ## Featured Projects
 
 ### MedAgent: bilingual clinical triage assistant (team project, DEPI)
-`LangGraph` `RAG` `FAISS` `FastAPI` `Docker`
+`ReAct agent` `RAG` `pgvector` `FastAPI` `Next.js` `Docker`
 
 - **Problem:** help Arabic-speaking patients triage symptoms in plain language and hand a structured summary to a doctor
 - **My part:** I contributed to this team project; the repo documents the full system
@@ -64,7 +64,7 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 
 - **Problem:** manual attendance taking
 - **What it does:** real-time face recognition with liveness detection and anti-spoofing
-- **Validation (as published earlier):** 95% accuracy, inference under 1 second, 80% less manual attendance, 98% spoof prevention
+- **Note:** liveness check uses the open-source Silent-Face-Anti-Spoofing models; no accuracy figures are claimed
 - Repo: [Face attendance system](https://github.com/MOHAMEDMETAWEA/Graduation-project-Face-attendance-system-face-recognition-based-on-AI-)
 
 ### Deep Learning Book RAG
@@ -75,10 +75,9 @@ AI/ML engineer and Communication & Electronics Engineering graduate. I build Gen
 - Repo: [Deep-Learning-Book_RAG](https://github.com/MOHAMEDMETAWEA/Deep-Learning-Book_RAG)
 
 ### Heart Disease Risk Prediction
-`Python` `Scikit-learn` `LightGBM` `XGBoost` `Streamlit`
+`Python` `Scikit-learn` `Streamlit`
 
-- **What it does:** end-to-end ML pipeline with an interactive Streamlit app
-- **Validation (as published earlier):** 92% recall, 0.90 F1-score
+- **What it does:** Streamlit app estimating heart-disease risk from 7 clinical parameters (logistic regression, random forest). A LightGBM/XGBoost version was built in the DEPI graduation team project.
 - Repo: [HeartDisease-Predictor](https://github.com/MOHAMEDMETAWEA/HeartDisease-Predictor)
 
 ### Comment Toxicity Detection
